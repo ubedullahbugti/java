@@ -35,5 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           name:run a one line script
-          run HELLOW in slide
+          run:echo HELLOW in slide
           
